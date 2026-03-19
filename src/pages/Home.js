@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import BannerImage from '../Assets/pizza.jpeg';
-import { Height } from '@mui/icons-material';
 import '../styles/Home.css';
 
 function Home() {
